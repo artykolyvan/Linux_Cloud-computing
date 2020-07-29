@@ -1,1 +1,3 @@
 https://eternalhost.net/blog/sozdanie-saytov/osnovnye-komandy-linux
+
+https://hacker-basement.ru/2019/04/21/linux-for-newbies-files-dirs-commands/
